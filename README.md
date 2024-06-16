@@ -1,4 +1,4 @@
-Title: Predictive Anomaly Detection of the Air Production Unit (APU) failure
+## Title: Predictive Anomaly Detection of the Air Production Unit (APU) failure
 
 Objective: 
 - To simulate real time data streaming of signals, design a data pipeline and proceed streaming integration with Kafka connect.
