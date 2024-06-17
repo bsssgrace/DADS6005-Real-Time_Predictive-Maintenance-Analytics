@@ -4,7 +4,7 @@ Objective:
 - To simulate real time data streaming of signals, design a data pipeline and proceed streaming integration with Kafka connect.
 - To predict anomaly detection using traditional machine learning methods (Offline) and Online machine learning.
 
-Pipeline
+Pipeline:
 ![image](https://github.com/bsssgrace/DADS6005-Real-Time_Predictive-Maintenance-Analytics/assets/114140787/33b6fcdf-b816-47e8-b135-cfa046e2a61f)
 
 Steps to run the source codes:
